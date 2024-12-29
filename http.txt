@@ -1,0 +1,10 @@
+198.23.239.134:6540:lwqvrreb:py0lha4gws1p
+207.244.217.165:6712:lwqvrreb:py0lha4gws1p
+107.172.163.27:6543:lwqvrreb:py0lha4gws1p
+64.137.42.112:5157:lwqvrreb:py0lha4gws1p
+173.211.0.148:6641:lwqvrreb:py0lha4gws1p
+161.123.152.115:6360:lwqvrreb:py0lha4gws1p
+167.160.180.203:6754:lwqvrreb:py0lha4gws1p
+154.36.110.199:6853:lwqvrreb:py0lha4gws1p
+173.0.9.70:5653:lwqvrreb:py0lha4gws1p
+173.0.9.209:5792:lwqvrreb:py0lha4gws1p
